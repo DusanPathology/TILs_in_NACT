@@ -3,7 +3,7 @@ import segmentation_models_pytorch as smp
 NUM_CLASSES = 5
 DEVICE = "cuda" #Change as necessary
 
-model1 = smp.MAnet(
+model = smp.MAnet(
     encoder_name="efficientnet-b0",
     encoder_weights="imagenet",
     in_channels=3,
