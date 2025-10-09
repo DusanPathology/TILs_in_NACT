@@ -1,6 +1,7 @@
 # TILs_in_NACT
 
-This repository contains starter code for models used in TILs in NACT publication doi:
+This repository contains starter code for models used in TILs in NACT publication: 
+Rasic, D., Stovgaard, E.I.S., Jylling, A.M.B. et al. AI assessment of tumor-infiltrating lymphocytes on routine H&E-slides as a predictor of response to neoadjuvant therapy in breast cancer—a real-world study. Virchows Arch (2025). https://doi.org/10.1007/s00428-025-04283-3
 
 ## License
 
